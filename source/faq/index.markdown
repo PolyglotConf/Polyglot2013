@@ -18,7 +18,7 @@ goal. In the end though, creating great software *must* ultimately lead to code,
 but we understand that code is a means to an end and not an end in and of
 itself. 
 
-In that spirit, we do hope to see the attendees sessions to discuss
+In that spirit, we do hope to see the attendees propose sessions to discuss
 things like interaction design and UX, creating startups, improving community
 and more.  However, be warned, code happens, code must happen and much of this
 conference will be about the code.
