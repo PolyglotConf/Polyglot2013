@@ -84,3 +84,16 @@ problem. We have some awesome women helping us organize this event and
 working to ensure it will be open and inclusive. This is at the core of the
 philosophy of Polyglot and we fully expect it well be an attitude that is
 embodied by all those attending.
+
+---
+
+__Q__: Who are the organizers?
+
+__A__: A rag-tag band of rebels orbiting a distant moon. Find out more on the [about](/event/about) page, or see the [Lanyrd Staff listing](http://lanyrd.com/2012/polyglotconf/).
+
+---
+
+### More questions?
+
+Add a comment below or [contact us](https://www.eventbrite.com/contact-organizer?eid=3026740061).
+

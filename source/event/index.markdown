@@ -6,9 +6,8 @@ sharing: true
 footer: true
 ---
 
-The Polyglot Conference is a 1 day uncoference which is joined by a day of
-pre-conference tutorials and (tentatively) followed by an all-day hackathon (more
-details on the hackathon coming soon).
+The Polyglot Conference is a 1 day unconference which is joined by a day of
+pre-conference tutorials.
 
 The conference itself is a one-day [__unconference__][unconference] (also called
 an open-space). This is a self-organized conference where attendees work to
@@ -17,31 +16,51 @@ conference.  If you've attended an unconference/open-space before then you
 already know how amazing these events are. If you have never attended one, then
 you are in for a real treat.
 
+We're using Lanyrd to keep track of full session details: http://lanyrd.com/2012/polyglotconf/
+
+## Registration
+
+Tickets are $35 and include a drink ticket at the after party. Friday tutorials do not include conference tickets, so please make sure to add one of each to your checkout.
+
+<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=3026740061&ref=etckt" frameborder="0" height="498" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://polyglotconf2012.eventbrite.com?ref=etckt" >Polyglot Conference 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>
+
+## Venue
+
+*SFU Harbour Centre*
+555 West Hastings, Vancouver, BC
+[View on Google Maps](http://maps.google.com/maps?q=49.2845122175,-123.112257549+(SFU%20Harbour%20Centre))
+
 ## Dates and Times
 
 ### Pre-conference [Tutorials](/tutorials) --- _Friday May 25th, 2012_
 
-_Tutorial Schedule comming soon_
+* Git Foundations by GitHub's Matthew McCullough ($200, multi-seat discounts)
+* Introduction to Erlang by Spawngrid ($300, discount on upcoming 3-day Erlang workshop)
+
+See the [tutorials](/tutorials) page for full details. Registration is through [Eventbrite](https://polyglotconf2012.eventbrite.com/)
+
+Interested in running a tutorial? Community sponsors and above will be co-promoted by us, and there are some rooms at SFU Harbour Centre still available. [Contact us](https://www.eventbrite.com/contact-organizer?eid=3026740061) to find out more.
 
 ### Conference Day --- _Saturday May 26th, 2012_
 
-    8:00 - 8:30AM : Registration
+    8:30AM - 9:00AM : Registration
 
-    8:30 - 8:45AM : Introduction
+    9:00AM - 9:15AM : Introduction
 
-    8:45 - 9:00AM : Final Session Selection
+    9:15 - 9:45AM : Final Session Selection
 
-    9AM  - 12PM   : Morning Sessions
+    9:45AM  - 12:30PM   : Morning Sessions
 
-    12PM - 1:30PM : Lunch (out on the town)
+    12:30PM - 2:00PM : Lunch (out on the town)
 
-    1:30 - 4:45PM : Afternoon Sessions
+    2:00 - 5:15PM : Afternoon Sessions
+    
+    5:15pm - 5:30PM : Closing Session
 
-    7:30 - Drop   : PARTY! (details to come soon): 
+    7:30 - Until You Drop   : PARTY! (details to come soon): 
 
 ### Post-conference Hackathon --- _Sunday May 27th, 2012_
 
-_While the hackathon is still tentative, we fully expect to have a day of pure
-polyglot hacking. Expect big things._
+_The hackathon is still tentative, pending space and sponsorship_
 
 [unconference]: http://en.wikipedia.org/wiki/Unconference
