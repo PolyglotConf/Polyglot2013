@@ -6,10 +6,9 @@ sharing: true
 footer: true
 ---
 
-Pre-conference tutorials will be all day Friday, May 25th. The tutorials are being run by sponsors of the conference and co-promoted, but are delivered by the organizations themselves. For convenience, tickets to the tutorials may be done through Eventbrite at the same time as you are purchasing tickets.
+Pre-conference tutorials will be all day Friday, May 25th. The tutorials are being run by sponsors of the conference and co-promoted, but are delivered by the organizations themselves. For convenience, [tickets to the tutorials may be done through Eventbrite](http://polyglotconf2012.eventbrite.com) at the same time as you are purchasing tickets.
 
-<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=3026740061&ref=etckt" frameborder="0" height="498" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://polyglotconf2012.eventbrite.com?ref=etckt" >Polyglot Conference 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>
-
+<a href="http://www.eventbrite.com/event/3026740061?ref=ebtn" target="_blank"><img src="http://www.eventbrite.com/custombutton?eid=3026740061" alt="Eventbrite - Polyglot Conference 2012" /></a>
 
 ## GitHub's Git Foundations Workshop with Matthew McCullough
 
@@ -66,3 +65,7 @@ He is a public speaker at international Erlang conferences (Erlang Factory & EUC
 
 _Note: It is required that your bring a laptop with permissions sufficiently
 open to install new apps. Wireless Internet access is provided._
+
+## Register for Tutorials
+
+<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=3026740061&ref=etckt" frameborder="0" height="498" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://polyglotconf2012.eventbrite.com?ref=etckt" >Polyglot Conference 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>

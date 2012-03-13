@@ -28,7 +28,9 @@ this describes _the person you wish to become_. Then believe us when we say this
 conference was created specifically for you.
 
 Or heck, don't believe us and come find out. I mean the tickets are $35, what
-have you got to loose!?
+have you got to lose!?
+
+<!-- more -->
 
 Here are some important things you should know (conveniently in point form for
 you skimmers):
@@ -72,3 +74,5 @@ following [@polyglotconf](http://twitter.com/polyglotconf) on Twitter or at
 least checking back often__.
 
 ### See you in May
+
+What are you waiting for? [Go register](http://polyglotconf2012.eventbrite.com)!

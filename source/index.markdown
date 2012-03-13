@@ -15,13 +15,12 @@ For more information, see the [Event](/event), [Tutorials](/tutorials), and [FAQ
 
 ## News
 
-<div class="blog-index">
-  {% assign index = true %}
-  {% for post in paginator.posts %}
-  {% assign content = post.content %}
-    <article>
-      {% include article.html %}
-    </article>
+<ul id="recent_posts">
+  {% for post in site.posts limit: site.recent_posts %}
+  <li class="post">
+    <p>{{ post.date | date: "%A, %B %d" }}:
+    <br /><a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></p>
+  </li>
   {% endfor %}
-</div>
+</ul>
 
