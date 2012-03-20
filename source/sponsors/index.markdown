@@ -12,7 +12,9 @@ A big thank you to all of our sponsors. This is a volunteer-run conference that 
 
 {% img left /images/sponsors/GitHub_Logo200.png %}
 
-A big thanks to [Github](http://github.com) for not only arranging our first pre-conference
+[Github](http://github.com) is famous for their DrinkUps. They are a premium sponsor who is helping to pay for the after party.
+
+A big thanks to Github for not only arranging our first pre-conference
 [tutorial](/tutorials#github) but also for sponsoring the event and helping to
 make it happen. Few organizations are as committed to the idea of _polyglot_ as
 Github is. 
@@ -22,6 +24,14 @@ also huge catalyst for the proliferation of open source. The Polyglot
 Conference would like to thank them not only for their sponsorship and
 support---and for hosting this site---but also for the powerful example they set every
 day by what they do.
+
+## Clio
+
+{% img left /images/sponsors/clio_ID_online.png %}
+
+[Clio](http://www.goclio.com) is a premium sponsor. They are sponsoring coffee cards for all participants to keep you caffeinated.
+
+Clio is a web-based practice management for the entrepreneurs of the legal industry: solos and small firms. Clio makes it easy for solos and small firms to manage their projects, do time and billing, and securely collaborate with their clients. Clio is built on Ruby on Rails, as well as a number of mobile platforms. We take pride in great software and design; if you do as well, think about [joining us](http://www.goclio.com/about/career_opportunities/).
 
 # Community Sponsors
 
