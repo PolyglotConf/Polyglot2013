@@ -66,6 +66,53 @@ He is a public speaker at international Erlang conferences (Erlang Factory & EUC
 _Note: It is required that your bring a laptop with permissions sufficiently
 open to install new apps. Wireless Internet access is provided._
 
+## Demystify the Web: Build a Dynamic HTTP Server from Scratch
+
+We will cover just enough networking and HTTP to build a simple working server.
+You will finish this tutorial with a 100 line HTTP server and completely
+understand it. We'll be working in Python, but this content transcends language
+and is useful in nearly every language and OS. This will be a hands-on tutorial
+with three labs.
+
+Modern web frameworks hide most of the messy details of web programming and
+present a powerful abstration for us to work with. Unfortunately, they often
+hide the simplicity of HTTP itself. If you're new to web programming, or have
+only used frameworks, it is hard to see exactly what an HTTP header is, or how
+an HTTP verb is specified on the wire. In this tutorial, we're going to start at
+the bottom, and work our way up to the HTTP fundamentals common to all web
+frameworks. As complex as web programming can be, we'll see that HTTP is clear
+and simple.
+
+We will look at basic TCP/IP, the socket abstraction, request/response
+protocols, HTTP verbs, and HTTP headers.  Each of these is a topic worthy of in
+depth study itself... but we're going to skim them all, taking just what we need
+to build a working HTTP server.
+
+#### Prerequisites:
+
+* Comfortability with some programming language: variables, string manipulation,
+  for loops and function calls.
+* You will need a laptop with Python 2.x installed. (2.7 recommended).
+* It will be convenient to have either GIT or SVN installed.
+
+
+### Bio
+
+Brian Dorsey is a database and Python developer with over 10 years of experience
+using Python professionaly. He currently works full time, developing command
+line tools, simple web applications, Windows services, HTTP/JSON APIs and the
+occasional iPhone prototype. He is excited about information, databases, user
+experience, testing and glue code. Brian is a co-organizer of the Seattle Python
+Interest Group (www.seapig.org) and has given several talks and tutorials at
+conferences, user groups and taught Python at the University of Washington, in
+Seattle.
+
+He is an enthusiastic teacher and a bit obsessed with this stuff. You will
+have fun and learn a lot.
+
+[http://briandorsey.info](http://briandorsey.info)
+
+
 ## Register for Tutorials
 
 <div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=3026740061&ref=etckt" frameborder="0" height="498" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://polyglotconf2012.eventbrite.com?ref=etckt" >Polyglot Conference 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>
