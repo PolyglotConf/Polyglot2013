@@ -6,10 +6,19 @@ sharing: true
 footer: true
 ---
 
+## Tutorials
+
+### [GitHub's Git Foundations Workshop with Matthew McCullough](#github)
+
+### [Introduction to Erlang by Spawngrid](#erlang)
+
+### [Demystify the Web: Build a Dynamic HTTP Server from Scratch](#http)
+
 Pre-conference tutorials will be all day Friday, May 25th. The tutorials are being run by sponsors of the conference and co-promoted, but are delivered by the organizations themselves. For convenience, [tickets to the tutorials may be done through Eventbrite](http://polyglotconf2012.eventbrite.com) at the same time as you are purchasing tickets.
 
 <a href="http://www.eventbrite.com/event/3026740061?ref=ebtn" target="_blank"><img src="http://www.eventbrite.com/custombutton?eid=3026740061" alt="Eventbrite - Polyglot Conference 2012" /></a>
 
+<a name="github"></a>
 ## GitHub's Git Foundations Workshop with Matthew McCullough
 
 Distributed version control is all the rage these days, but is it worth it? It
@@ -45,6 +54,7 @@ the No Fluff Just Stuff tour, author of three of the top 10 DZone RefCards,
 including the Git RefCard, and President of the Denver Open Source Users
 Group.
 
+<a name="erlang"></a>
 ## Introduction to Erlang by Spawngrid
 
 New is well forgotten old. You may have noticed that in these days of a higher demand for concurrent, fault-tolerant applications, people talk more and more about Erlang. Some try to copy its most prominent features to other languages. Erlang has been around for about 20 years now and is a solid piece of a battlefield-proven technology. 
@@ -66,6 +76,7 @@ He is a public speaker at international Erlang conferences (Erlang Factory & EUC
 _Note: It is required that your bring a laptop with permissions sufficiently
 open to install new apps. Wireless Internet access is provided._
 
+<a name="http"></a>
 ## Demystify the Web: Build a Dynamic HTTP Server from Scratch
 
 We will cover just enough networking and HTTP to build a simple working server.
