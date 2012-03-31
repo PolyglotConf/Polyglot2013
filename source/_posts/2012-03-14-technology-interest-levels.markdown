@@ -9,7 +9,7 @@ tags: [NoSQL, node.js, Ruby, Python, Haskell]
 
 Before the site went up, we had linked to an image of the chart of interest that people had in different technologies.
 
-{% img /images/polyglot_language_interest.png 800 %}
+{% img /images/polyglot_language_interest.png %}
 
 As you can see, the top 4 technologies of interest are:
 

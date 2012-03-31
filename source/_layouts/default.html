@@ -4,32 +4,48 @@
   {% include header.html %}
   <div class="wrapper">
     <div class="logo">
-      <h1><a href="/"><img src="images/logo-large.png"  class="logo-img" alt="Vancouver Polyglot Un-Conference" /></a></h1>
+      <h1><a href="/"><img src="/images/logo-large.png"  class="logo-img" alt="Vancouver Polyglot Un-Conference" /></a></h1>
     </div>
-    <a href="#" class="reg-btn"></a>
+    <a href="http://eventbrite.com/event/3026740061" class="reg-btn"></a>
     <nav role="navigation">{% include navigation.html %}</nav>
     <div id="main">
       <div id="content">
         {{ content | expand_urls: root_url }}
       </div>
       <aside class="sidebar">
-        <div class="sidebar-title">
-          <div class="x-pattern">
-            <h1>Search</h1>     
-          </div>
+      <div class="sidebar-title">
+        <div class="x-pattern">
+          <h1>Search</h1>     
         </div>
-        <form>
-          <input class="search"></input>
-        </form>
-        {% if site.page_asides.size %}
-          {% include_array page_asides %}
-        {% else %}
-          {% include_array default_asides %}
-        {% endif %}
+      </div>
+      <form action="http://google.com/search" method="get">
+        <input type="hidden" name="q" value="site:www.polyglot.com">
+        <input type="text" name="q" results="0" placeholder="Search" class="search">
+      </form>
+      {% if site.page_asides.size %}
+      {% include_array page_asides %}
+      {% else %}
+      {% include_array default_asides %}
+      {% endif %}
       </aside>
     </div>
+  </div> 
+  <div class="sponsor-bar">
+    <div class="wrapper">
+      <h3 class="white">Sponsors</h3>
+      <ul class="sponsors">
+        <li><a href="http://www.github.com"  target="_blank"><img src="images/sponsors/github.jpg" alt="Github" /></a></li>
+        <li><a href="http://www.clio.com"  target="_blank"><img src="images/sponsors/clio_ID_online.png" alt="Clio" /></a></li>
+        <li><a href="http://www.spawngrid.com"  target="_blank"><img src="images/sponsors/spawngrid.png" alt="Spawngrid" /></a></li>
+        <li><a href="http://claytoncorreia.com"  target="_blank"><img src="images/sponsors/clayton.png" alt="Clayton Correia" /></a></li>                      
+        <li><a href="http://terraspitzner.com"  target="_blank"><img src="images/sponsors/tera.png" alt="Clayton Correia" /></a></li>                      
+        <div class="clear"></div>
+      </ul>
+    </div>
   </div>
-  <footer role="contentinfo">{% include footer.html %}</footer>
-  {% include after_footer.html %}
+  </div class="wrapper">
+    <footer role="contentinfo">{% include footer.html %}</footer>
+    {% include after_footer.html %}
+  </div>
 </body>
 </html>

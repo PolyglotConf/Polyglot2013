@@ -1,11 +1,25 @@
-@import "compass";
-@include global-reset;
-@include reset-html5;
+@import "compass/css3";
+@import "compass/typography/links";
+@import "base/utilities";
+/*@import "compass";*/
+/*@include global-reset;*/
+/*@include reset-html5;*/
 
-@import "custom/colors";
-@import "custom/fonts";
-@import "custom/layout";
-@import "base";
-// @import "partials";
+/*@import "custom/colors";*/
+/*@import "custom/fonts";*/
+/*@import "custom/layout";*/
+/*@import "base";*/
+/*@import "partials";*/
+
+
+$solarized: light;
+$text-color: #4d4d4d;
+$link-color: #20afd2;
+$noise-bg: image-url('noise.png') top left !default;
+$mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace !default;
+.mono { font-family: $mono; }
+
+@import "base/solarized";
+@import "partials/syntax";
 @import "custom/space";
 @import "custom/styles";

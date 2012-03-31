@@ -1,17 +1,26 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+pre, code, tt { @extend .mono; }
 /* Basics */
 
 body {
   background-image: url(../images/ui/bg.jpg); 
   background-repeat:repeat;
-  font-family: 'pt sans', helvetica, arial;
-  color: #fff;
+  font-family: "pt sans", helvetica, arial;
+}
+
+.where {
+  color: white;
 }
 
 p {
-  color: #4d4d4d;
+  color: $text-color;
+  text-shadow: 0px 1px 0px rgba(255,255,255,0.8);
+}
+
+article ul, article ol {
+  color: $text-color;
   text-shadow: 0px 1px 0px rgba(255,255,255,0.8);
 }
 
@@ -21,9 +30,9 @@ a {
 }
 
 h1, h2, h3, h4, h5 ,h6 {
-  font-family: 'pt sans', helvetica, arial;
+  font-family: "pt sans", helvetica, arial;
   font-weight: bold;
-  color: #4d4d4d;  
+  color: $text-color;  
 
 }
 
@@ -82,6 +91,19 @@ h1, h2, h3, h4, h5 ,h6 {
 
 .logo-img {
   width: 100%;
+}
+
+.flex-content, article img, article video, article .flash-video, aside.sidebar img {
+  @include border-radius(0.3em);
+  @include box-sizing(border-box);
+  @include box-shadow(rgba(0,0,0,0.15), 0, 1px, 4px);
+  background-color: white;
+  border: white 0.5em solid;
+}
+
+.flex-content, article img, article video, article .flash-video, aside.sidebar img {
+  max-width: 100%;
+  height: auto;
 }
 
 a.reg-btn {
@@ -152,21 +174,21 @@ header {
   margin: 20px 0 0 -20px;
   min-height: 64px;
   width: 75%;
-	background: -moz-linear-gradient(
-		top,
-		#6e6e6e 0%,
-		#4b4b4b);
-	background: -webkit-gradient(
-		linear, left top, left bottom, 
-		from(#6e6e6e),
-		to(#4b4b4b));
-	border: 1px solid #000000;
-	-moz-box-shadow:
-		0px 1px 3px rgba(000,000,000,0.5),
-		inset 0px 0px 3px rgba(255,255,255,1);
-	-webkit-box-shadow:
-		0px 1px 3px rgba(000,000,000,0.5),
-		inset 0px 0px 3px rgba(255,255,255,1);
+  background: -moz-linear-gradient(
+  top,
+  #6e6e6e 0%,
+  #4b4b4b);
+  background: -webkit-gradient(
+  linear, left top, left bottom, 
+  from(#6e6e6e),
+  to(#4b4b4b));
+  border: 1px solid #000000;
+  -moz-box-shadow:
+  0px 1px 3px rgba(000,000,000,0.5),
+  inset 0px 0px 3px rgba(255,255,255,1);
+  -webkit-box-shadow:
+  0px 1px 3px rgba(000,000,000,0.5),
+  inset 0px 0px 3px rgba(255,255,255,1);
 }
 
 .x-pattern {
@@ -180,7 +202,18 @@ header {
 h1.entry-title {
   margin: 20px 0 0 30px;
   color: #fff;
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+}
 
+article p.meta {
+  color: $text-color;
+  font-weight: bold;
 }
 
 article {
@@ -189,15 +222,31 @@ article {
 }
 
 article p {
-  color: #4d4d4d;
+  color: $text-color;
   margin: 13px 0 0 25px;
 }
 
 article ul {
-  color: #4d4d4d;
+  color: $text-color;
 
 
 }
+
+article footer {
+  margin-top: 26px;
+  margin-bottom: 13px;
+  p {
+    margin-left: 0px;
+  }
+  .sharing {
+    margin-top: 13px;
+  }
+}
+
+article section {
+  h1 { margin-left: 0px; }
+}
+
 
 
 /* Sidebar */
@@ -212,7 +261,7 @@ article ul {
 }
 
 .sidebar ul {
-  color: #4d4d4d;
+  color: $text-color;
 }
 
 .sidebar-title {
@@ -220,21 +269,21 @@ article ul {
   height: 48px;
   width: 115%;
   overflow: hidden;
-	background: -moz-linear-gradient(
-		top,
-		#6e6e6e 0%,
-		#4b4b4b);
-	background: -webkit-gradient(
-		linear, left top, left bottom, 
-		from(#6e6e6e),
-		to(#4b4b4b));
-	border: 1px solid #000000;
-	-moz-box-shadow:
-		0px 1px 3px rgba(000,000,000,0.5),
-		inset 0px 0px 3px rgba(255,255,255,1);
-	-webkit-box-shadow:
-		0px 1px 3px rgba(000,000,000,0.5),
-		inset 0px 0px 3px rgba(255,255,255,1);
+  background: -moz-linear-gradient(
+  top,
+  #6e6e6e 0%,
+  #4b4b4b);
+  background: -webkit-gradient(
+  linear, left top, left bottom, 
+  from(#6e6e6e),
+  to(#4b4b4b));
+  border: 1px solid #000000;
+  -moz-box-shadow:
+  0px 1px 3px rgba(000,000,000,0.5),
+  inset 0px 0px 3px rgba(255,255,255,1);
+  -webkit-box-shadow:
+  0px 1px 3px rgba(000,000,000,0.5),
+  inset 0px 0px 3px rgba(255,255,255,1);
 }
 
 .sidebar-title h1 {
@@ -263,7 +312,7 @@ input.search {
   height: 34px;
   border-radius: 5px;
   padding: 3px 0px 0px 25px;
-  font: normal 12px pt sans, helvetica, arial;
+  font: normal 16px "pt sans", helvetica, arial;
   color: #6C6C6C;
   margin: 5px 0 15px 20px;
   background-image: url(../images/search.png);
@@ -291,17 +340,17 @@ ul.sponsors {
 }
 
 ul.sponsors li {
-  width: 200px;
-  height:125px;
   float: left;
-  margin: 10px 50px 10px 0;
-  border: 3px #000000 solid;
+  img {
+    max-width: 100%;
+    background-color: white;
+    border: 3px #000000 solid;
+  }
+  img:hover {
+    border: 3px #20afd2 solid;
+  }
+  margin: 10px 40px 0px 0;
 }
-
-ul.sponsors li:hover {
-  border: 3px #20afd2 solid;
-}
-
 
 /* Footer */
 
@@ -314,111 +363,162 @@ footer P {
 
 
 @media screen and (max-width: 900px) {
- 
- ul.main-navigation li a {
-  color: #fff;
-  text-decoration: none;
-  font-size: 100%;
-  line-height: 2;
-  text-transform: uppercase;
-  margin-bottom: 10
- }
 
-nav {
-  height: 90px;
-  display: block;
-}
- 
-ul.subscription {
-  display: none;
-} 
+  ul.main-navigation li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 100%;
+    line-height: 2;
+    text-transform: uppercase;
+    margin-bottom: 10
+  }
 
-header { 
-  width: 80%;
+  nav {
+    height: 90px;
+    display: block;
+  }
 
-}
+  ul.subscription {
+    display: none;
+  } 
 
-.sidebar {
-  position: absolute;
-  width: 26%;
-  top: 150px;
-  left: 67%;
-  border-left: solid 1px #b1b1b1;
-  padding-left: 20px;
-}
- 
+  header { 
+    width: 80%;
+
+  }
+
+  .sidebar {
+    position: absolute;
+    width: 26%;
+    top: 150px;
+    left: 67%;
+    border-left: solid 1px #b1b1b1;
+    padding-left: 20px;
+  }
+
 }
 
 @media screen and (max-width: 600px) {
- 
- 
-.sidebar {
-  position: relative;
-  display: block;
-  width: 100%;
-  top: 0px;
-  border-left: solid 1px #b1b1b1;
-  clear: both;
-  left: 0px;
-  margin-bottom: 40px;
- } 
- 
-article {
-  width: 90%;
+
+
+  .sidebar {
+    position: relative;
+    display: block;
+    width: 100%;
+    top: 0px;
+    border-left: solid 1px #b1b1b1;
+    clear: both;
+    left: 0px;
+    margin-bottom: 40px;
+  } 
+
+  article {
+    width: 90%;
+  }
+
+
+  a.reg-btn {
+    background-image: url(../images/reg-btn.png);
+    background-position: top;
+    width: 170px;
+    height: 57px;
+    display: block;
+    float: left;
+    margin: 0 0 0 0;
+  }
+
+  .logo {
+    margin: 50px 0 0 0;
+    width: 100%;
+    min-width: 220px;
+  }
+
+  nav {
+    background-image: url(../images/nav-bg.png);
+    height: 90px;
+    margin: 90px 0 40px 0;  
+  }
+
+  ul.main-navigation {
+    width: 100%;
+    margin: 0 0 0 -20px;
+  }
+
+  ul.main-navigation li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 100%;
+    line-height: 2;
+    text-transform: uppercase;
+  }
+
+  ul.subscription {
+    list-style: none;
+    width: 150px;  
+    margin: -60px 0 0 0;
+    display: block;
+  }
+
+  .where {
+    display: none;
+  }
+
+
+  header { 
+    width: 110%;
+  }
 }
 
-
-a.reg-btn {
-  background-image: url(../images/reg-btn.png);
-  background-position: top;
-  width: 170px;
-  height: 57px;
-  display: block;
-  float: left;
-  margin: 0 0 0 0;
+footer[role="contentinfo"] p {
+  margin-top: 13px;
+  margin-bottom: 5px;
+  text-align: center;
 }
 
-.logo {
-  margin: 50px 0 0 0;
-  width: 100%;
-  min-width: 220px;
+hr {
+  @extend .mam;
 }
 
-nav {
-  background-image: url(../images/nav-bg.png);
-  height: 90px;
-  margin: 90px 0 40px 0;  
-}
-
-ul.main-navigation {
-  width: 100%;
-  margin: 0 0 0 -20px;
-}
-
-ul.main-navigation li a {
-  color: #fff;
+#tweets a[href*="status"]:first-child {
+  color: #A4A4A4;
+  float: right;
+  padding: 0 0 .1em 1em;
+  text-shadow: white 0 1px;
   text-decoration: none;
-  font-size: 100%;
-  line-height: 2;
-  text-transform: uppercase;
- }
-
-ul.subscription {
-  list-style: none;
-  width: 150px;  
-  margin: -60px 0 0 0;
-  display: block;
 }
 
-.where {
-  display: none;
+#content .pagination {
+  text-align: center;
+  font-size: 1.1em;
+  position: relative;
+  padding-bottom: 1.45em;
+  padding-top: 1.45em;
+  a::before, a::after {
+    content: '\2014';
+    padding: 0 .3em;
+  }
+  a {
+    text-decoration: none;
+    color: $text-color;
+  } 
+  a:hover {
+    color: $link-color;
+  }
 }
 
-
-header { 
-  width: 110%;
-
-}
-
-
+#content .blog-index {
+  a[rel="full-article"] {
+    font-size: 1.1em;
+    background: #E0E0E0;
+    display: inline-block;
+    padding: .4em .8em;
+    margin-right: .5em;
+    text-decoration: none;
+    color: $text-color;
+  }
+  a[rel="full-article"]:hover {
+    background: $link-color;
+    text-shadow: none;
+    color: #F8F8F8;
+  }
 }

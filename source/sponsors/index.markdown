@@ -33,7 +33,7 @@ day by what they do.
 
 Clio is a web-based practice management for the entrepreneurs of the legal industry: solos and small firms. Clio makes it easy for solos and small firms to manage their projects, do time and billing, and securely collaborate with their clients. Clio is built on Ruby on Rails, as well as a number of mobile platforms. We take pride in great software and design; if you do as well, think about [joining us](http://www.goclio.com/about/career_opportunities/).
 
-# Community Sponsors
+<header><div class="x-pattern"><h1 class="entry-title">Community Sponsors</h1></div></header>
 
 ## Spawngrid
 

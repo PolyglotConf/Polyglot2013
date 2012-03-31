@@ -13,8 +13,7 @@ The event is being held in Vancouver, BC at SFU Harbour Centre, on *Saturday, Ma
 
 For more information, see the [Event](/event), [Tutorials](/tutorials), and [FAQ](/faq) sections.
 
-## News
-
+<header><div class="x-pattern"><h1 class="entry-title">Latest News</h1></div></header>
 <ul id="recent_posts">
   {% for post in site.posts limit: site.recent_posts %}
   <li class="post">
@@ -23,4 +22,3 @@ For more information, see the [Event](/event), [Tutorials](/tutorials), and [FAQ
   </li>
   {% endfor %}
 </ul>
-

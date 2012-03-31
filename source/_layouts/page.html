@@ -29,13 +29,12 @@ layout: default
       {% endunless %}
     </footer>
   {% endunless %}
-</article>
 {% if site.disqus_short_name and page.comments == true %}
+  <hr class="mam">
   <section>
     <h1>Comments</h1>
     <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
   </section>
 {% endif %}
+</article>
 </div>
-{% unless page.sidebar == false %}
-{% endunless %}

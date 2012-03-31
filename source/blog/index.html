@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="blog-index">
+  <div class="pas"></div>
   {% assign index = true %}
   {% for post in paginator.posts %}
   {% assign content = post.content %}
@@ -20,10 +21,3 @@ layout: default
     {% endif %}
   </div>
 </div>
-<aside class="sidebar">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
-</aside>
