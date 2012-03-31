@@ -3,11 +3,17 @@ layout: default
 ---
 
 <div>
+  <div class="pas"></div>
 <article role="article">
   {% if page.title %}
   <header>
-    <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
-    {% if page.date %}<p class="meta">{% include post/date.html %}{{ time }}</p>{% endif %}
+    <div class="x-pattern">
+      <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+    </div>
+    {% if page.date %}
+    <p class="meta">{% include post/date.html %}{{ time }}</p>
+    <hr class="mam">
+    {% endif %}
   </header>
   {% endif %}
   {{ content }}
@@ -32,11 +38,4 @@ layout: default
 {% endif %}
 </div>
 {% unless page.sidebar == false %}
-<aside class="sidebar">
-  {% if site.page_asides.size %}
-    {% include_array page_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
-</aside>
 {% endunless %}

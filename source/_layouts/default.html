@@ -1,11 +1,32 @@
 {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
 {% include head.html %}
 <body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} {% if page.sidebar == false %} class="no-sidebar" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class="collapse-sidebar sidebar-footer" {% endif %}>
-  <header role="banner">{% include header.html %}</header>
-  <nav role="navigation">{% include navigation.html %}</nav>
-  <div id="main">
-    <div id="content">
-      {{ content | expand_urls: root_url }}
+  {% include header.html %}
+  <div class="wrapper">
+    <div class="logo">
+      <h1><a href="/"><img src="images/logo-large.png"  class="logo-img" alt="Vancouver Polyglot Un-Conference" /></a></h1>
+    </div>
+    <a href="#" class="reg-btn"></a>
+    <nav role="navigation">{% include navigation.html %}</nav>
+    <div id="main">
+      <div id="content">
+        {{ content | expand_urls: root_url }}
+      </div>
+      <aside class="sidebar">
+        <div class="sidebar-title">
+          <div class="x-pattern">
+            <h1>Search</h1>     
+          </div>
+        </div>
+        <form>
+          <input class="search"></input>
+        </form>
+        {% if site.page_asides.size %}
+          {% include_array page_asides %}
+        {% else %}
+          {% include_array default_asides %}
+        {% endif %}
+      </aside>
     </div>
   </div>
   <footer role="contentinfo">{% include footer.html %}</footer>
