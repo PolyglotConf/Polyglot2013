@@ -16,7 +16,7 @@ conference.  If you've attended an unconference/open-space before then you
 already know how amazing these events are. If you have never attended one, then
 you are in for a real treat.
 
-We're using Lanyrd to keep track of full session details: http://lanyrd.com/2012/polyglotconf/
+What will the conference be about? We've got a [session suggestions forum](http://polyglotconf.uservoice.com), or click on the "sessions & talks" tab at left to see what's been submitted so far.
 
 ## Registration
 
@@ -61,8 +61,8 @@ Interested in running a tutorial? Community sponsors and above will be co-promot
 
     7:30 - Until You Drop   : PARTY! (details to come soon): 
 
-### Post-conference Hackathon --- _Sunday May 27th, 2012_
+### Post-conference Mozilla Hackathon --- _Sunday May 27th, 2012_
 
-_The hackathon is still tentative, pending space and sponsorship_
+Mozilla is hosting the hackathon at their Vancouver offices. See the [hackathon](/hackathon) page for more details.
 
 [unconference]: http://en.wikipedia.org/wiki/Unconference

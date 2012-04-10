@@ -33,6 +33,14 @@ day by what they do.
 
 Clio is a web-based practice management for the entrepreneurs of the legal industry: solos and small firms. Clio makes it easy for solos and small firms to manage their projects, do time and billing, and securely collaborate with their clients. Clio is built on Ruby on Rails, as well as a number of mobile platforms. We take pride in great software and design; if you do as well, think about [joining us](http://www.goclio.com/about/career_opportunities/).
 
+{% img left /images/sponsors/mozilla280x160.png %}
+
+[Mozilla](http://www.mozilla.org) is a premium sponsor who is helping to pay for the after party, and is also hosting a [Hackathon on Sunday](/hackathon).
+
+Mozilla is a global, nonprofit organization dedicated to making the Web better. We emphasize principle over profit, and believe that the Web is a shared public resource to be cared for, not a commodity to be sold. We work with a worldwide community to create open source products like Mozilla Firefox, and to innovate for the benefit of the individual and the betterment of the Web. The result is great products built by passionate people and better choices for everyone.
+
+[Vancouver](http://www.mozilla.org/en-US/about/contact.html#map-canada-vancouver) is one of Mozilla's global offices, and they look forward to hosting lots of great events in their new offices.
+
 <header><div class="x-pattern"><h1 class="entry-title">Community Sponsors</h1></div></header>
 
 ## Spawngrid
