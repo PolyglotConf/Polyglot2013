@@ -8,18 +8,20 @@ footer: true
 
 ## Tutorials
 
-### [GitHub's Git Foundations Workshop with Matthew McCullough](#github)
+### [GitHub's Git Foundations Workshop by Matthew McCullough](#github)
 
 ### [Introduction to Erlang by Spawngrid](#erlang)
 
-### [Demystify the Web: Build a Dynamic HTTP Server from Scratch](#http)
+### [Demystify the Web: Build a Dynamic HTTP Server from Scratch by Brian Dorsey](#http)
+
+### [Advanced Javascript by Allen Pike](#javascript)
 
 Pre-conference tutorials will be all day Friday, May 25th. The tutorials are being run by sponsors of the conference and co-promoted, but are delivered by the organizations themselves. For convenience, [tickets to the tutorials may be done through Eventbrite](http://polyglotconf2012.eventbrite.com) at the same time as you are purchasing tickets.
 
 <a href="http://www.eventbrite.com/event/3026740061?ref=ebtn" target="_blank"><img src="http://www.eventbrite.com/custombutton?eid=3026740061" alt="Eventbrite - Polyglot Conference 2012" /></a>
 
 <a name="github"></a>
-## GitHub's Git Foundations Workshop with Matthew McCullough
+## GitHub's Git Foundations Workshop by Matthew McCullough
 
 Distributed version control is all the rage these days, but is it worth it? It
 has been transformative for the dozens of organizations and thousands of
@@ -77,7 +79,7 @@ _Note: It is required that your bring a laptop with permissions sufficiently
 open to install new apps. Wireless Internet access is provided._
 
 <a name="http"></a>
-## Demystify the Web: Build a Dynamic HTTP Server from Scratch
+## Demystify the Web: Build a Dynamic HTTP Server from Scratch by Brian Dorsey
 
 We will cover just enough networking and HTTP to build a simple working server.
 You will finish this tutorial with a 100 line HTTP server and completely
@@ -122,6 +124,35 @@ He is an enthusiastic teacher and a bit obsessed with this stuff. You will
 have fun and learn a lot.
 
 [http://briandorsey.info](http://briandorsey.info)
+
+<a name="javascript"></a>
+## Advanced Javascript by Allen Pike
+
+JavaScript is one of the most exciting programming languages right now, and
+it’s easy to get started with jQuery, Node, and other interesting JavaScript
+tools. Before long, however, developers usually find the more unusual aspects
+of the language to be a challenge. Something as fundamental as understanding
+what “this” points to in JavaScript can be confusing. 
+
+In this tutorial we’ll explore functions, scope, inheritance, instantiation,
+closures, the Chrome developer tools, automatic semicolon insertion, and other
+advanced topics that make JavaScript a unique language. After completing this
+tutorial, you should be prepared to graduate from mixing JavaScript into web
+pages to writing full-fledged applications with the language. 
+
+#### Prerequisites
+
+* Comfort writing basic JavaScript and ideally one other programming language 
+* A laptop with Chrome and a text editor
+
+### Bio 
+
+Allen Pike is the co-founder of [Steam Clock Software](http://www.steamclocksw.com). He has written apps in
+JavaScript for many years, including two years at Apple and projects for HP and
+Time. He is the curator of VanJS, one of the largest JavaScript meetups in the
+world, and has presented on JavaScript at conferences such as JSConf and
+Wordcamp: Developers. He has taught JavaScript and web technologies at Simon
+Fraser University. 
 
 
 ## Register for Tutorials
