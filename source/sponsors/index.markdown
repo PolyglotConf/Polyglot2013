@@ -61,6 +61,12 @@ Spawngrid is also running a [pre-conference tutorial on an Intro to Erlang](/tut
 
 We put out a call for help with our visual design and branding - both for a logo and this website. [Clayton](http://claytoncorreia.com/) and [Terra](http://terraspitzner.com/) teamed up to provide us with everything as an in-kind sponsorship. 
 
+## PhoneGap
+
+{% img left /images/sponsors/phonegap-logo.png %}
+
+[PhoneGap](http://phonegap.com) is an open source platform for quickly building cross-platform mobile apps with HTML, CSS and JS. It is the only mobile platform that supports 7 operating systems: iOS, Android, BlackBerry, webOS, Symbian, Bada and Windows Phone. The source has been downloaded more than 600,000 times, with thousands of apps available in app stores today
+
 ### Interested in sponsoring?
 
 We have premier and community sponsorships still available. [Contact us](https://www.eventbrite.com/contact-organizer?eid=3026740061) for more info.
