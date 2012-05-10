@@ -1,75 +1,79 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://PolyglotConf.github.com/blog/2012/03/12/welcome-polyglotconf-2012/</loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <loc>http://www.polyglotconf.com/blog/2012/03/12/welcome-polyglotconf-2012/</loc>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://PolyglotConf.github.com/blog/2012/03/13/design-sponsors/</loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <loc>http://www.polyglotconf.com/blog/2012/03/13/design-sponsors/</loc>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://PolyglotConf.github.com/blog/2012/03/14/technology-interest-levels/</loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <loc>http://www.polyglotconf.com/blog/2012/03/14/technology-interest-levels/</loc>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://PolyglotConf.github.com/blog/2012/04/10/session-suggestions/</loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://PolyglotConf.github.com/blog/2012/04/10/kaler-the-problem-with-most-tech-conferences-is-that-they-devolve-into-cliques/
-        </loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <loc>http://www.polyglotconf.com/blog/2012/04/10/session-suggestions/</loc>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
     </url>
     <url>
         <loc>
-            http://PolyglotConf.github.com/blog/2012/04/10/clio-and-mozilla-are-premium-sponsors/
+            http://www.polyglotconf.com/blog/2012/04/10/kaler-the-problem-with-most-tech-conferences-is-that-they-devolve-into-cliques/
         </loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://PolyglotConf.github.com/blog/archives/</loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <loc>
+            http://www.polyglotconf.com/blog/2012/04/10/clio-and-mozilla-are-premium-sponsors/
+        </loc>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://PolyglotConf.github.com/blog/</loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <loc>http://www.polyglotconf.com/blog/2012/05/10/callout-for-volunteers/</loc>
+        <lastmod>2012-05-10T13:22:34-07:00</lastmod>
     </url>
     <url>
-        <loc>http://PolyglotConf.github.com/event/about/</loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <loc>http://www.polyglotconf.com/blog/archives/</loc>
+        <lastmod>2012-05-10T13:22:34-07:00</lastmod>
     </url>
     <url>
-        <loc>http://PolyglotConf.github.com/event/</loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <loc>http://www.polyglotconf.com/blog/</loc>
+        <lastmod>2012-05-10T13:22:34-07:00</lastmod>
     </url>
     <url>
-        <loc>http://PolyglotConf.github.com/faq/</loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <loc>http://www.polyglotconf.com/event/about/</loc>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://PolyglotConf.github.com/hackathon/</loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <loc>http://www.polyglotconf.com/event/</loc>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://PolyglotConf.github.com/</loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <loc>http://www.polyglotconf.com/faq/</loc>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://PolyglotConf.github.com/party/</loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <loc>http://www.polyglotconf.com/hackathon/</loc>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://PolyglotConf.github.com/sessions/</loc>
-        <lastmod>2012-04-12T10:25:09-07:00</lastmod>
+        <loc>http://www.polyglotconf.com/</loc>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://PolyglotConf.github.com/sponsors/</loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <loc>http://www.polyglotconf.com/party/</loc>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://PolyglotConf.github.com/tutorials/</loc>
-        <lastmod>2012-04-10T13:53:37-07:00</lastmod>
+        <loc>http://www.polyglotconf.com/sessions/</loc>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.polyglotconf.com/sponsors/</loc>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.polyglotconf.com/tutorials/</loc>
+        <lastmod>2012-05-10T13:18:28-07:00</lastmod>
     </url>
 </urlset>
