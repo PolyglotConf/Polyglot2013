@@ -31,4 +31,4 @@ Saturday, May 26, 2012: Two shifts: morning/registration (7:30am-12:30pm) and af
 * Be part of history in the making (you will have bragging rights for being part of the first annual Vancouver Polyglot conference in Vancouver)
 * An opportunity to learn, meet awesome people and have fun!
 
-Spaces limited! Interested? Contact: Evelyn- info@polyglotconf.com
+Spaces limited! Interested? Contact: Evelyn- [info@polyglotconf.com](mailto:info@polyglot)
