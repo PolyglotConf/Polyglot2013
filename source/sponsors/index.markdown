@@ -67,6 +67,19 @@ We put out a call for help with our visual design and branding - both for a logo
 
 [PhoneGap](http://phonegap.com) is an open source platform for quickly building cross-platform mobile apps with HTML, CSS and JS. It is the only mobile platform that supports 7 operating systems: iOS, Android, BlackBerry, webOS, Symbian, Bada and Windows Phone. The source has been downloaded more than 600,000 times, with thousands of apps available in app stores today
 
+## Amazon Vancouver
+
+{% img left /images/sponsors/amazon-vancouver-logo.png 300 %}
+
+Amazon’s Vancouver branch is a rapidly growing space where top developers
+create world-class software. We have just one way to describe what it is to be
+at Amazon: Work hard. Have fun. Make history. Work and Fun are not different
+experiences here, it is a singular way of life at Amazon! Whether it is our
+work environment, creative pursuits or a challenging technology problem that we
+have resolved, life at Amazon inspires us to make history. Amazon Vancouver is
+currently hiring for variety of software development positions – please see
+[http://vancouver.amazon-jobs.com/](http://vancouver.amazon-jobs.com/) for more details.
+
 ### Interested in sponsoring?
 
 We have premier and community sponsorships still available. [Contact us](https://www.eventbrite.com/contact-organizer?eid=3026740061) for more info.
