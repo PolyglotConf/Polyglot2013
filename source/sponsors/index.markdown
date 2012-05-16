@@ -47,7 +47,7 @@ Mozilla is a global, nonprofit organization dedicated to making the Web better. 
 
 {% img left /images/sponsors/spawngrid-logo.png 300 %}
 
-[Spawngrid](http://spawngrid.com) is using Erlang at scale to build world class SaaS products. Spawngrid's first product, [HasTests](http://hastests.com), is a SaaS framework for performing comprehensive randomized testing of web applications, using real browsers.
+[Spawngrid](http://spawngrid.com) is using Erlang at scale to build world class SaaS products. Spawngrid's first product, [Test.io](http://test.io), is a SaaS framework for performing comprehensive randomized testing of web applications, using real browsers.
 
 It allows to specify application’s concepts, ﬂows and data generators and perform continuous integration process using a wide range of data generated in run time. It delivers the simplest possible scenario that triggers the failure.
 
