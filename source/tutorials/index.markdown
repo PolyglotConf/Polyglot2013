@@ -76,7 +76,7 @@ Yurii Rashkovskii is a software enthusiast with over 10 years professional exper
 He is a public speaker at international Erlang conferences (Erlang Factory & EUC), co-organizer of the Vancouver Erlang Meetup, and co-founder of Spawngrid.
 
 _Note: It is required that your bring a laptop with permissions sufficiently
-open to install new apps. Wireless Internet access is provided._
+open to install new apps. _
 
 <a name="http"></a>
 ## Demystify the Web: Build a Dynamic HTTP Server from Scratch by Brian Dorsey
