@@ -65,7 +65,7 @@ What's all this buzz about? Learn it first hand.
 
 This hands on tutorial will give you an introduction to the Erlang programming language. You will learn the basics of how to read, write and structure Erlang programs. We start with an insight into the theory and concepts behind sequential and concurrent Erlang, allowing you to get acquainted with the Erlang syntax and semantics. We conclude with an overview of the error handling mechanisms used to build fault tolerant systems with five nines availability. 
  
-In order to get the most out of this tutorial, you must have a good grasp of other programming languages. This will be a hands on tutorial. Make sure you come with your laptop having installed Erlang (https://github.com/spawngrid/kerl) and your favourite editor.
+In order to get the most out of this tutorial, you must have a good grasp of other programming languages. This will be a hands on tutorial. Make sure you come with your laptop having installed [Erlang](https://github.com/spawngrid/kerl) and your favourite editor.
 
 Attendees will also get a discount for a three day Erlang Express course that will follow shortly after.
 
@@ -76,7 +76,7 @@ Yurii Rashkovskii is a software enthusiast with over 10 years professional exper
 He is a public speaker at international Erlang conferences (Erlang Factory & EUC), co-organizer of the Vancouver Erlang Meetup, and co-founder of Spawngrid.
 
 _Note: It is required that your bring a laptop with permissions sufficiently
-open to install new apps. _
+open to install new apps._
 
 <a name="http"></a>
 ## Demystify the Web: Build a Dynamic HTTP Server from Scratch by Brian Dorsey
