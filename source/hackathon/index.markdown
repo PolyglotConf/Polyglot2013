@@ -20,7 +20,6 @@ The first rule for the hack day is there are NO RULES. Mozilla is happy to host 
 Of course, Mozillians will be on hand to field questions about various Mozilla projects:
 
 * Firefox mobile for Android
-* Firefox mobile for Android<
 * 'Boot to Gecko' mobile operating system
 * Persona identiy service for web applications
 * Mozilla marketplace - a marketplace for HTML5 apps
