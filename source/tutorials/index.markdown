@@ -15,10 +15,10 @@ footer: true
 * _9am -> 5pm @ [SFU Harbour Center][sfumap] - Room 101_
 
 #### [Demystify the Web: Build a Dynamic HTTP Server from Scratch by Brian Dorsey](#http)
-* _9am -> 12:30pm @ [UBC Robson Square](ubcmap) - Room C225_
+* _1pm -> 5pm @ [UBC Robson Square][ubcmap] - Room C225_
 
 #### [Advanced Javascript by Allen Pike](#javascript)
-* _1pm -> 5pm @ [UBC Robson Square][ubcmap] - Room C225_
+* _9am -> 12:30pm @ [UBC Robson Square](ubcmap) - Room C225_
 
 Pre-conference tutorials will be all day Friday, May 25th. The tutorials are being run by sponsors of the conference and co-promoted, but are delivered by the organizations themselves. For convenience, [tickets to the tutorials may be done through Eventbrite](http://polyglotconf2012.eventbrite.com) at the same time as you are purchasing tickets.
 
@@ -89,7 +89,7 @@ open to install new apps._
 <a name="http"></a>
 ## Demystify the Web: Build a Dynamic HTTP Server from Scratch by Brian Dorsey
 
-### 9am -> 12:30pm @ [UBC Robson Square](ubcmap) - Room C225
+### 1pm -> 5pm @ [UBC Robson Square][ubcmap] - Room C225
 
 We will cover just enough networking and HTTP to build a simple working server.
 You will finish this tutorial with a 100 line HTTP server and completely
@@ -138,7 +138,7 @@ have fun and learn a lot.
 <a name="javascript"></a>
 ## Advanced Javascript by Allen Pike
 
-### 1pm -> 5pm @ [UBC Robson Square][ubcmap] - Room C225
+### 9am -> 12:30pm @ [UBC Robson Square](ubcmap) - Room C225
 
 JavaScript is one of the most exciting programming languages right now, and
 it’s easy to get started with jQuery, Node, and other interesting JavaScript
