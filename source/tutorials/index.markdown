@@ -8,13 +8,17 @@ footer: true
 
 ## Tutorials
 
-### [GitHub's Git Foundations Workshop by Matthew McCullough](#github)
+#### [GitHub's Git Foundations Workshop by Matthew McCullough](#github)  
+* _9am -> 5pm @ [UBC Robson Square][ubcmap] - Room C485_
 
-### [Introduction to Erlang by Spawngrid](#erlang)
+#### [Introduction to Erlang by Spawngrid](#erlang)
+* _9am -> 12:30pm @ [SFU Harbour Center][sfumap] - Room 101_
 
-### [Demystify the Web: Build a Dynamic HTTP Server from Scratch by Brian Dorsey](#http)
+#### [Demystify the Web: Build a Dynamic HTTP Server from Scratch by Brian Dorsey](#http)
+* _9am -> 12:30pm @ [UBC Robson Square](ubcmap) - Room C225_
 
-### [Advanced Javascript by Allen Pike](#javascript)
+#### [Advanced Javascript by Allen Pike](#javascript)
+* _1pm -> 5pm @ [UBC Robson Square][ubcmap] - Room C225_
 
 Pre-conference tutorials will be all day Friday, May 25th. The tutorials are being run by sponsors of the conference and co-promoted, but are delivered by the organizations themselves. For convenience, [tickets to the tutorials may be done through Eventbrite](http://polyglotconf2012.eventbrite.com) at the same time as you are purchasing tickets.
 
@@ -22,6 +26,8 @@ Pre-conference tutorials will be all day Friday, May 25th. The tutorials are bei
 
 <a name="github"></a>
 ## GitHub's Git Foundations Workshop by Matthew McCullough
+
+### 9am -> 5pm @ [UBC Robson Square][ubcmap] - Room C485
 
 Distributed version control is all the rage these days, but is it worth it? It
 has been transformative for the dozens of organizations and thousands of
@@ -59,6 +65,8 @@ Group.
 <a name="erlang"></a>
 ## Introduction to Erlang by Spawngrid
 
+### 9am -> 12:30pm @ [SFU Harbour Center][sfumap] - Room 101
+
 New is well forgotten old. You may have noticed that in these days of a higher demand for concurrent, fault-tolerant applications, people talk more and more about Erlang. Some try to copy its most prominent features to other languages. Erlang has been around for about 20 years now and is a solid piece of a battlefield-proven technology. 
 
 What's all this buzz about? Learn it first hand.
@@ -80,6 +88,8 @@ open to install new apps._
 
 <a name="http"></a>
 ## Demystify the Web: Build a Dynamic HTTP Server from Scratch by Brian Dorsey
+
+### 9am -> 12:30pm @ [UBC Robson Square](ubcmap) - Room C225
 
 We will cover just enough networking and HTTP to build a simple working server.
 You will finish this tutorial with a 100 line HTTP server and completely
@@ -128,6 +138,8 @@ have fun and learn a lot.
 <a name="javascript"></a>
 ## Advanced Javascript by Allen Pike
 
+### 1pm -> 5pm @ [UBC Robson Square][ubcmap] - Room C225
+
 JavaScript is one of the most exciting programming languages right now, and
 it’s easy to get started with jQuery, Node, and other interesting JavaScript
 tools. Before long, however, developers usually find the more unusual aspects
@@ -158,3 +170,6 @@ Fraser University.
 ## Register for Tutorials
 
 <div class="media" style="width:95%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=3026740061&ref=etckt" frameborder="0" height="498" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://polyglotconf2012.eventbrite.com?ref=etckt" >Polyglot Conference 2012</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>
+
+[ubcmap]: http://g.co/maps/pdzb9
+[sfumap]: http://g.co/maps/unn97
