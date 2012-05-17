@@ -12,7 +12,7 @@ footer: true
 * _9am -> 5pm @ [UBC Robson Square][ubcmap] - Room C485_
 
 #### [Introduction to Erlang by Spawngrid](#erlang)
-* _9am -> 12:30pm @ [SFU Harbour Center][sfumap] - Room 101_
+* _9am -> 5pm @ [SFU Harbour Center][sfumap] - Room 101_
 
 #### [Demystify the Web: Build a Dynamic HTTP Server from Scratch by Brian Dorsey](#http)
 * _9am -> 12:30pm @ [UBC Robson Square](ubcmap) - Room C225_
@@ -65,7 +65,7 @@ Group.
 <a name="erlang"></a>
 ## Introduction to Erlang by Spawngrid
 
-### 9am -> 12:30pm @ [SFU Harbour Center][sfumap] - Room 101
+### 9am -> 5pm @ [SFU Harbour Center][sfumap] - Room 101
 
 New is well forgotten old. You may have noticed that in these days of a higher demand for concurrent, fault-tolerant applications, people talk more and more about Erlang. Some try to copy its most prominent features to other languages. Erlang has been around for about 20 years now and is a solid piece of a battlefield-proven technology. 
 
