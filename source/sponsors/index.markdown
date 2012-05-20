@@ -80,6 +80,15 @@ have resolved, life at Amazon inspires us to make history. Amazon Vancouver is
 currently hiring for variety of software development positions – please see
 [http://vancouver.amazon-jobs.com/](http://vancouver.amazon-jobs.com/) for more details.
 
+
+{% img left /images/sponsors/heroku-logo-light-234x60.png 200 %}
+## Heroku
+
+[Heroku](http://heroku.com) is a cloud application platform – a new way of building and deploying
+web apps. Developers can focus 100% on code and never think about servers,
+instances, or VMs again. Tens of thousands of developers have already deployed
+hundreds of thousands of apps to Heroku
+
 {% img left /images/sponsors/phonegap-logo.png 200 %}
 ## PhoneGap
 
