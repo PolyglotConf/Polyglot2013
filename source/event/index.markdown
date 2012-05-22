@@ -34,9 +34,6 @@ Tickets are $35 and include a drink ticket at the after party. Friday tutorials 
 
 ### Pre-conference [Tutorials](/tutorials) --- _Friday May 25th, 2012_
 
-* Git Foundations by GitHub's Matthew McCullough ($200, multi-seat discounts)
-* Introduction to Erlang by Spawngrid ($300, discount on upcoming 3-day Erlang workshop)
-
 See the [tutorials](/tutorials) page for full details. Registration is through [Eventbrite](https://polyglotconf2012.eventbrite.com/)
 
 Interested in running a tutorial? Community sponsors and above will be co-promoted by us, and there are some rooms at SFU Harbour Centre still available. [Contact us](https://www.eventbrite.com/contact-organizer?eid=3026740061) to find out more.
@@ -45,24 +42,26 @@ Interested in running a tutorial? Community sponsors and above will be co-promot
 
 ### Conference Day --- _Saturday May 26th, 2012_
 
-    8:30AM - 9:00AM : Registration
+8:30AM - 9:00AM : Registration
 
-    9:00AM - 9:15AM : Introduction
+9:00AM - 9:15AM : Introduction
 
-    9:15 - 9:45AM : Final Session Selection
+9:15 - 9:45AM : Final Session Selection
 
-    9:45AM  - 12:30PM   : Morning Sessions
+9:45AM  - 12:30PM   : Morning Sessions
 
-    12:30PM - 2:00PM : Lunch (out on the town)
+12:30PM - 2:00PM : Lunch (out on the town)
 
-    2:00 - 5:15PM : Afternoon Sessions
+2:00 - 5:15PM : Afternoon Sessions
     
-    5:15pm - 5:30PM : Closing Session
+5:15pm - 5:30PM : Closing Session
 
-    7:30 - Until You Drop   : PARTY! (details to come soon): 
+7:30 - Until You Drop   : [After Party! $10 gift certificate all around Gastown](/blog/2012/05/22/after-party-details/)
+
+Have information to share such as links, presentations, or photos? Add & create sessions [on our Lanyrd page »](http://lanyrd.com/2012/polyglotconf/)
 
 ### Post-conference Mozilla Hackathon --- _Sunday May 27th, 2012_
 
-Mozilla is hosting the hackathon at their Vancouver offices. See the [hackathon](/hackathon) page for more details.
+Mozilla is hosting a full day hackathon at their Vancouver offices. See the [hackathon](/hackathon) page for more details, registration is also [through Eventbrite](https://polyglotconf2012.eventbrite.com/).
 
 [unconference]: http://en.wikipedia.org/wiki/Unconference
