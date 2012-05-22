@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Mozilla | Vancouver Polyglot Unconference]]></title>
+  <link href="http://www.polyglotconf.com/blog/categories/mozilla/atom.xml" rel="self"/>
+  <link href="http://www.polyglotconf.com/"/>
+  <updated>2012-05-22T14:50:42-07:00</updated>
+  <id>http://www.polyglotconf.com/</id>
+  <author>
+    <name><![CDATA[Polyglot Organizers]]></name>
+    <email><![CDATA[info@polyglotconf.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[After party details]]></title>
+    <link href="http://www.polyglotconf.com/blog/2012/05/22/after-party-details/"/>
+    <updated>2012-05-22T14:27:00-07:00</updated>
+    <id>http://www.polyglotconf.com/blog/2012/05/22/after-party-details</id>
+    <content type="html"><![CDATA[<p>Thanks to our <a href="/sponsors/">drinks sponsors</a> GitHub and Mozilla, we'll be providing attendees that want to continue on having a good time after the conference sessions end with a $10 gift certificate to a fine provider of libations.</p>
+
+<p>Continuing with the unconference theme, we decided to select a number of venues in and around Gastown. This gives attendees a chance to go off in smaller groups and continue the discussions from the day. We'll be handing out a random gift certificate with each registration, which is another chance to get to meet different people, or to mix and match to build your own Gastown food &amp; drink adventure. Think of it as an un-party!</p>
+
+<p>As well as the drinks sponsors, <a href="http://www.goclio.com/">Clio</a> is going to be caffeinating you. We've got Artigiano coffee cards that you'll also get first thing in the morning, for you to use as you like either first thing or at lunch time to get your caffeine fix. The closest <a href="https://www.caffeartigiano.com:3691/Location_Vancouver_Hastings.aspx">Artigiano location is on Hastings at Howe</a>.</p>
+
+<p><img src="/images/polyglot_giftcerts_coffee_cards_500px.jpg"></p>
+
+<p>Locations currently include:</p>
+
+<ul>
+<li><a href="http://www.fatdragonbbq.com/">Fat Dragon</a> (566 Powell St)</li>
+<li><a href="http://www.campagnolorestaurant.ca/">Campagolo</a> (1020 Main St)</li>
+<li><a href="http://boneta.ca/">Boneta</a> (12 Water St)</li>
+<li><a href="http://di6mond.com/">Diamond</a> (6 Powell St)</li>
+<li><a href="http://seamonstrsushi.com/">Sea Monster Sushi</a> (55 Powell St)</li>
+<li><a href="http://saveonmeats.ca/">Save On Meats</a> (43 W. Hastings)</li>
+<li><a href="http://irishheather.com/">Irish Heather</a> (210 Carrall St)</li>
+<li><a href="http://www.shebeen.ca/">The Shebeen</a> (210 Carrall St)</li>
+<li><a href="http://www.salttastingroom.com/">Salt</a> (Blood Alley)</li>
+<li><a href="http://www.judasgoat.ca/">Judas Goat</a> (Blood Alley)</li>
+<li><a href="http://www.bittertastingroom.com/">Bitter</a> (16 W. Hastings)</li>
+</ul>
+
+
+<p>The gift certificate you'll receive is good for food or drink, so it's up to you whether you want to have a leisurely dinner debating software dev practices, or whether you want to go on a mini pub crawl.</p>
+]]></content>
+  </entry>
+  
+</feed>
