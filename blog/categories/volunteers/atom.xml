@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: volunteers | Vancouver Polyglot Unconference]]></title>
-  <link href="http://www.polyglotconf.com/blog/categories/volunteers/atom.xml" rel="self"/>
-  <link href="http://www.polyglotconf.com/"/>
-  <updated>2012-05-22T14:50:42-07:00</updated>
-  <id>http://www.polyglotconf.com/</id>
+  <link href="http://PolyglotConf.github.com/blog/categories/volunteers/atom.xml" rel="self"/>
+  <link href="http://PolyglotConf.github.com/"/>
+  <updated>2012-05-25T12:08:23-07:00</updated>
+  <id>http://PolyglotConf.github.com/</id>
   <author>
     <name><![CDATA[Polyglot Organizers]]></name>
     <email><![CDATA[info@polyglotconf.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Callout for volunteers: Vancouver Polyglot Conference 2012]]></title>
-    <link href="http://www.polyglotconf.com/blog/2012/05/10/callout-for-volunteers/"/>
+    <link href="http://PolyglotConf.github.com/blog/2012/05/10/callout-for-volunteers/"/>
     <updated>2012-05-10T11:10:00-07:00</updated>
-    <id>http://www.polyglotconf.com/blog/2012/05/10/callout-for-volunteers</id>
+    <id>http://PolyglotConf.github.com/blog/2012/05/10/callout-for-volunteers</id>
     <content type="html"><![CDATA[<h2>CALLOUT FOR VOLUNTEERS: VANCOUVER POLYGLOT CONFERENCE 2012!</h2>
 
 <p>Want to learn how to create great software, from industry experts…. FOR FREE?</p>

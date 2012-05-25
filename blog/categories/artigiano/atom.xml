@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Artigiano | Vancouver Polyglot Unconference]]></title>
-  <link href="http://www.polyglotconf.com/blog/categories/artigiano/atom.xml" rel="self"/>
-  <link href="http://www.polyglotconf.com/"/>
-  <updated>2012-05-22T14:50:42-07:00</updated>
-  <id>http://www.polyglotconf.com/</id>
+  <link href="http://PolyglotConf.github.com/blog/categories/artigiano/atom.xml" rel="self"/>
+  <link href="http://PolyglotConf.github.com/"/>
+  <updated>2012-05-25T12:08:23-07:00</updated>
+  <id>http://PolyglotConf.github.com/</id>
   <author>
     <name><![CDATA[Polyglot Organizers]]></name>
     <email><![CDATA[info@polyglotconf.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[After party details]]></title>
-    <link href="http://www.polyglotconf.com/blog/2012/05/22/after-party-details/"/>
+    <link href="http://PolyglotConf.github.com/blog/2012/05/22/after-party-details/"/>
     <updated>2012-05-22T14:27:00-07:00</updated>
-    <id>http://www.polyglotconf.com/blog/2012/05/22/after-party-details</id>
+    <id>http://PolyglotConf.github.com/blog/2012/05/22/after-party-details</id>
     <content type="html"><![CDATA[<p>Thanks to our <a href="/sponsors/">drinks sponsors</a> GitHub and Mozilla, we'll be providing attendees that want to continue on having a good time after the conference sessions end with a $10 gift certificate to a fine provider of libations.</p>
 
 <p>Continuing with the unconference theme, we decided to select a number of venues in and around Gastown. This gives attendees a chance to go off in smaller groups and continue the discussions from the day. We'll be handing out a random gift certificate with each registration, which is another chance to get to meet different people, or to mix and match to build your own Gastown food &amp; drink adventure. Think of it as an un-party!</p>

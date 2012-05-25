@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Vancouver Polyglot Unconference]]></title>
-  <link href="http://www.polyglotconf.com/atom.xml" rel="self"/>
-  <link href="http://www.polyglotconf.com/"/>
-  <updated>2012-05-22T14:50:42-07:00</updated>
-  <id>http://www.polyglotconf.com/</id>
+  <link href="http://PolyglotConf.github.com/atom.xml" rel="self"/>
+  <link href="http://PolyglotConf.github.com/"/>
+  <updated>2012-05-25T12:08:23-07:00</updated>
+  <id>http://PolyglotConf.github.com/</id>
   <author>
     <name><![CDATA[Polyglot Organizers]]></name>
     <email><![CDATA[info@polyglotconf.com]]></email>
@@ -14,17 +14,59 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Polyglot Skills &amp; Interests]]></title>
+    <link href="http://PolyglotConf.github.com/blog/2012/05/25/polyglot-skills-and-interests/"/>
+    <updated>2012-05-25T11:29:00-07:00</updated>
+    <id>http://PolyglotConf.github.com/blog/2012/05/25/polyglot-skills-and-interests</id>
+    <content type="html"><![CDATA[<p>On the eve of the Polyglot main conference day, here are a couple of charts from the registration questions we asked. This is an interesting contrast to the <a href="http://PolyglotConf.github.com/blog/2012/03/14/technology-interest-levels/">pre-launch interest levels</a>.</p>
+
+<p>Not everyone filled out the questions, and for those that registered multiple attendees the questions weren&#8217;t filled out, so consider this very rough data. At the same time, it&#8217;s an interesting snapshot of the programming languages and technologies that are of interest today.</p>
+
+<h2>Skills of Participants</h2>
+
+<p>We asked participants to list their strongest skills:</p>
+
+<p><a href="http://PolyglotConf.github.com/images/strongest_tech.png"><img src="http://PolyglotConf.github.com/images/strongest_tech.png" width="600"></a></p>
+
+<p>A lot of our organizing committee is from an ALT.NET background<sup><a href="#altnet">1</a></sup>, so the strong showing from C# / .NET is not surprising.</p>
+
+<h2>Technology Interest</h2>
+
+<p>We asked participants which programming language, framework, or technology are you most interested in learning more about. This was a free form text field that we asked people to comma separate.</p>
+
+<p><a href="http://PolyglotConf.github.com/images/tech_learn_barchart.png"><img src="http://PolyglotConf.github.com/images/tech_learn_barchart.png" width="600"></a></p>
+
+<p>The &#8220;long tail&#8221; is particularly interesting (everything from F# down had just one person list it as an interest), as well as the complete absence of C# from <em>this</em> list.</p>
+
+<h2>See you tomorrow!</h2>
+
+<p>We&#8217;ll see everyone tomorrow at 8:30am at SFU Harbour Centre for registration and topic planning.</p>
+
+<p>Remember - <a href="http://polyglotconf.uservoice.com/">vote for the session suggestions</a> or add your own based on what you&#8217;ve seen here. Just putting down a language or tech you&#8217;re interested in is a great way to start gathering interest.</p>
+
+<p>Check the <a href="http://polyglotconf.uservoice.com/forums/156120-session-suggestions/filters/new">new session suggestions</a> for some additional placeholder topics we&#8217;ve put in place based on the interest results.</p>
+
+<h3>Footnotes</h3>
+
+<p><sup><a name="altnet">1</a></sup>Jeremy D. Miller&#8217;s post on <a href="http://msdn.microsoft.com/en-us/magazine/cc337902.aspx">What is ALT.NET?</a> makes for good reading, especially this quote:</p>
+
+<blockquote><p>You reach outside the mainstream to adopt the best of any community: Open Source, Agile, Java, Ruby. In no way does Microsoft or the .NET community have a monopoly on good software development. For instance, Agile processes and Design Patterns started with Smalltalk. Likewise, Inversion of Control tools and techniques originated in Java. And two fundamental Ruby on Rails principles—Don&#8217;t Repeat Yourself and Convention over Configuration—are ones that we can adopt in .NET.</p><footer><strong>Jeremy D. Miller</strong> <cite><a href='http://msdn.microsoft.com/en-us/magazine/cc337902.aspx'>What Is ALT.NET?</a></cite></footer></blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[After party details]]></title>
-    <link href="http://www.polyglotconf.com/blog/2012/05/22/after-party-details/"/>
+    <link href="http://PolyglotConf.github.com/blog/2012/05/22/after-party-details/"/>
     <updated>2012-05-22T14:27:00-07:00</updated>
-    <id>http://www.polyglotconf.com/blog/2012/05/22/after-party-details</id>
-    <content type="html"><![CDATA[<p>Thanks to our <a href="http://www.polyglotconf.com/sponsors/">drinks sponsors</a> GitHub and Mozilla, we&#8217;ll be providing attendees that want to continue on having a good time after the conference sessions end with a $10 gift certificate to a fine provider of libations.</p>
+    <id>http://PolyglotConf.github.com/blog/2012/05/22/after-party-details</id>
+    <content type="html"><![CDATA[<p>Thanks to our <a href="http://PolyglotConf.github.com/sponsors/">drinks sponsors</a> GitHub and Mozilla, we&#8217;ll be providing attendees that want to continue on having a good time after the conference sessions end with a $10 gift certificate to a fine provider of libations.</p>
 
 <p>Continuing with the unconference theme, we decided to select a number of venues in and around Gastown. This gives attendees a chance to go off in smaller groups and continue the discussions from the day. We&#8217;ll be handing out a random gift certificate with each registration, which is another chance to get to meet different people, or to mix and match to build your own Gastown food &amp; drink adventure. Think of it as an un-party!</p>
 
 <p>As well as the drinks sponsors, <a href="http://www.goclio.com/">Clio</a> is going to be caffeinating you. We&#8217;ve got Artigiano coffee cards that you&#8217;ll also get first thing in the morning, for you to use as you like either first thing or at lunch time to get your caffeine fix. The closest <a href="https://www.caffeartigiano.com:3691/Location_Vancouver_Hastings.aspx">Artigiano location is on Hastings at Howe</a>.</p>
 
-<p><img src="http://www.polyglotconf.com/images/polyglot_giftcerts_coffee_cards_500px.jpg"></p>
+<p><img src="http://PolyglotConf.github.com/images/polyglot_giftcerts_coffee_cards_500px.jpg"></p>
 
 <p>Locations currently include:</p>
 
@@ -49,9 +91,9 @@
   
   <entry>
     <title type="html"><![CDATA[Callout for volunteers: Vancouver Polyglot Conference 2012]]></title>
-    <link href="http://www.polyglotconf.com/blog/2012/05/10/callout-for-volunteers/"/>
+    <link href="http://PolyglotConf.github.com/blog/2012/05/10/callout-for-volunteers/"/>
     <updated>2012-05-10T11:10:00-07:00</updated>
-    <id>http://www.polyglotconf.com/blog/2012/05/10/callout-for-volunteers</id>
+    <id>http://PolyglotConf.github.com/blog/2012/05/10/callout-for-volunteers</id>
     <content type="html"><![CDATA[<h2>CALLOUT FOR VOLUNTEERS: VANCOUVER POLYGLOT CONFERENCE 2012!</h2>
 
 <p>Want to learn how to create great software, from industry experts…. FOR FREE?</p>
@@ -86,14 +128,14 @@ volunteerism, of course)?</p>
   
   <entry>
     <title type="html"><![CDATA[Clio and Mozilla are premium sponsors]]></title>
-    <link href="http://www.polyglotconf.com/blog/2012/04/10/clio-and-mozilla-are-premium-sponsors/"/>
+    <link href="http://PolyglotConf.github.com/blog/2012/04/10/clio-and-mozilla-are-premium-sponsors/"/>
     <updated>2012-04-10T11:24:00-07:00</updated>
-    <id>http://www.polyglotconf.com/blog/2012/04/10/clio-and-mozilla-are-premium-sponsors</id>
-    <content type="html"><![CDATA[<p>We&#8217;re pleased to announce that <a href="http://www.goclio.com">Clio</a> and <a href="http://www.mozilla.org">Mozilla</a> are premium <a href="http://www.polyglotconf.com/sponsors">sponsors</a>.</p>
+    <id>http://PolyglotConf.github.com/blog/2012/04/10/clio-and-mozilla-are-premium-sponsors</id>
+    <content type="html"><![CDATA[<p>We&#8217;re pleased to announce that <a href="http://www.goclio.com">Clio</a> and <a href="http://www.mozilla.org">Mozilla</a> are premium <a href="http://PolyglotConf.github.com/sponsors">sponsors</a>.</p>
 
 <p>Clio will be helping to caffeinate you by providing some Artigiano coffee cards. Clio is a local Vancouver company that provides a web-based practice management for the entrepreneurs of the legal industry: solos and small firms.</p>
 
-<p>Mozilla is our drinks sponsor alongside GitHub, and is also stepping up to host a <a href="http://www.polyglotconf.com/hackathon">Hackathon on Sunday</a>. Mozilla is a global, nonprofit organization dedicated to making the Web better. The Mozilla Vancouver office is one of their global locations, and will be moving into new space in May.</p>
+<p>Mozilla is our drinks sponsor alongside GitHub, and is also stepping up to host a <a href="http://PolyglotConf.github.com/hackathon">Hackathon on Sunday</a>. Mozilla is a global, nonprofit organization dedicated to making the Web better. The Mozilla Vancouver office is one of their global locations, and will be moving into new space in May.</p>
 
 <p>We have a handful of community sponsorships left if you&#8217;re interested in getting involved with Polyglot.</p>
 ]]></content>
@@ -101,9 +143,9 @@ volunteerism, of course)?</p>
   
   <entry>
     <title type="html"><![CDATA[Kaler: The problem with most tech conferences is that they devolve into cliques]]></title>
-    <link href="http://www.polyglotconf.com/blog/2012/04/10/kaler-the-problem-with-most-tech-conferences-is-that-they-devolve-into-cliques/"/>
+    <link href="http://PolyglotConf.github.com/blog/2012/04/10/kaler-the-problem-with-most-tech-conferences-is-that-they-devolve-into-cliques/"/>
     <updated>2012-04-10T11:18:00-07:00</updated>
-    <id>http://www.polyglotconf.com/blog/2012/04/10/kaler-the-problem-with-most-tech-conferences-is-that-they-devolve-into-cliques</id>
+    <id>http://PolyglotConf.github.com/blog/2012/04/10/kaler-the-problem-with-most-tech-conferences-is-that-they-devolve-into-cliques</id>
     <content type="html"><![CDATA[<p><a href="http://twitter.com/kaler">Parveen Kaler</a> is one of the organizers of Polyglot. Here&#8217;s his <a href="http://parveenkaler.com/2012/04/08/polyglotconf-vancouver-2012/">blog post</a> on why you should attend Polyglot:</p>
 
 <blockquote>
@@ -121,9 +163,9 @@ PolyglotConf is a one day unconference designed to get 200 of the smartest devel
   
   <entry>
     <title type="html"><![CDATA[Session Suggestions]]></title>
-    <link href="http://www.polyglotconf.com/blog/2012/04/10/session-suggestions/"/>
+    <link href="http://PolyglotConf.github.com/blog/2012/04/10/session-suggestions/"/>
     <updated>2012-04-10T11:10:00-07:00</updated>
-    <id>http://www.polyglotconf.com/blog/2012/04/10/session-suggestions</id>
+    <id>http://PolyglotConf.github.com/blog/2012/04/10/session-suggestions</id>
     <content type="html"><![CDATA[<p>Most unconferences wait until the first day of the conference before you get a glimpse of what the sessions will be.  We just couldn&#8217;t wait that long and wanted to give you a head start to get your Polyglot juices flowing, and to give people a glimpse at what kind of sessions they can expect.</p>
 
 <p>We&#8217;re using <a href="http://polyglotconf.uservoice.com">UserVoice</a> to let people browse, suggest, and vote for a session.  We&#8217;d love to hear what sessions you like to attend and you can do that by voting for the ones that appeal to you the most.  You only get three votes, but don&#8217;t worry, you can always change your vote if a new hot session pops up after you&#8217;ve already distributed your votes.</p>
@@ -136,12 +178,12 @@ PolyglotConf is a one day unconference designed to get 200 of the smartest devel
   
   <entry>
     <title type="html"><![CDATA[Technology interest levels]]></title>
-    <link href="http://www.polyglotconf.com/blog/2012/03/14/technology-interest-levels/"/>
+    <link href="http://PolyglotConf.github.com/blog/2012/03/14/technology-interest-levels/"/>
     <updated>2012-03-14T09:08:00-07:00</updated>
-    <id>http://www.polyglotconf.com/blog/2012/03/14/technology-interest-levels</id>
+    <id>http://PolyglotConf.github.com/blog/2012/03/14/technology-interest-levels</id>
     <content type="html"><![CDATA[<p>Before the site went up, we had linked to an image of the chart of interest that people had in different technologies.</p>
 
-<p><img src="http://www.polyglotconf.com/images/polyglot_language_interest.png"></p>
+<p><img src="http://PolyglotConf.github.com/images/polyglot_language_interest.png"></p>
 
 <p>As you can see, the top 4 technologies of interest are:</p>
 
@@ -165,9 +207,9 @@ PolyglotConf is a one day unconference designed to get 200 of the smartest devel
   
   <entry>
     <title type="html"><![CDATA[Design sponsors]]></title>
-    <link href="http://www.polyglotconf.com/blog/2012/03/13/design-sponsors/"/>
+    <link href="http://PolyglotConf.github.com/blog/2012/03/13/design-sponsors/"/>
     <updated>2012-03-13T10:24:00-07:00</updated>
-    <id>http://www.polyglotconf.com/blog/2012/03/13/design-sponsors</id>
+    <id>http://PolyglotConf.github.com/blog/2012/03/13/design-sponsors</id>
     <content type="html"><![CDATA[<p>We put out a call for help with design and branding for the conference. All of the organizers are technical people, so we knew we had to get help. Luckily, <a href="http://claytoncorreia.com/">Clayton Correia</a>  and <a href="http://terraspitzner.com/">Terra Spitzner</a> volunteered to make a logo and matching site design as an in kind sponsorship.</p>
 
 <p>We knew we were in good hands when they sent us a preview of the logo along with a branding guide that had the following tips for us:</p>
@@ -186,9 +228,9 @@ PolyglotConf is a one day unconference designed to get 200 of the smartest devel
   
   <entry>
     <title type="html"><![CDATA[Welcome to Polyglot 2012]]></title>
-    <link href="http://www.polyglotconf.com/blog/2012/03/12/welcome-polyglotconf-2012/"/>
+    <link href="http://PolyglotConf.github.com/blog/2012/03/12/welcome-polyglotconf-2012/"/>
     <updated>2012-03-12T00:00:00-07:00</updated>
-    <id>http://www.polyglotconf.com/blog/2012/03/12/welcome-polyglotconf-2012</id>
+    <id>http://PolyglotConf.github.com/blog/2012/03/12/welcome-polyglotconf-2012</id>
     <content type="html"><![CDATA[<p>We, the Polyglot 2012 organizers, are very excited to be bringing you the first
 (annual?) Polyglot <strong>un</strong>-conference. An entirely non-denominational software
 development conference that is about software development and nothing but.</p>
@@ -246,15 +288,15 @@ convinced.</li>
 
 <h3>The FAQs</h3>
 
-<p>I&#8217;ve also compiled a little <a href="http://www.polyglotconf.com/faq">FAQ</a> which includes this and more in
+<p>I&#8217;ve also compiled a little <a href="http://PolyglotConf.github.com/faq">FAQ</a> which includes this and more in
 convenient Q/A form for those who both skimmed the intro and are averse to point
 form information. The FAQ will be kept up to date as people ask questions and
 give us feedback and as we have more details on the event.</p>
 
 <h3>Staying Informed</h3>
 
-<p>Also we have a <a href="http://www.polyglotconf.com/blog">blog</a> section which will updated with announcements on
-the pre-conference <a href="http://www.polyglotconf.com/tutorials">tutorials</a>, the (tentatively planned)
+<p>Also we have a <a href="http://PolyglotConf.github.com/blog">blog</a> section which will updated with announcements on
+the pre-conference <a href="http://PolyglotConf.github.com/tutorials">tutorials</a>, the (tentatively planned)
 post-conference hackathon, the session planning and selection and much more. If
 you are planning on attending <strong>I highly recommend subscribing to the blog,
 following <a href="http://twitter.com/polyglotconf">@polyglotconf</a> on Twitter or at
