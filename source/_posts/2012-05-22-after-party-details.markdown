@@ -33,5 +33,6 @@ Locations currently include:
 * [Judas Goat](http://www.judasgoat.ca/) (Blood Alley)
 * [Bitter](http://www.bittertastingroom.com/) (16 W. Hastings)
 
-The gift certificate you'll receive is good for food or drink, so it's up to you whether you want to have a leisurely dinner debating software dev practices, or whether you want to go on a mini pub crawl.
+**A complete map of the after-party locations is [available here](http://g.co/maps/qmhuu)**
 
+The gift certificate you'll receive is good for food or drink, so it's up to you whether you want to have a leisurely dinner debating software dev practices, or whether you want to go on a mini pub crawl.
